@@ -267,7 +267,7 @@ radbtn();
 
 
 <!-- The Modal -->
-<div id="myModal" style="background:rgba(255,255,255,1); border:2px solid black; padding:20px; color:black; width:40%; height:20%; margin-left:20%; margin-top:10%;" class="modal">
+<div id="myModal" style="background:rgba(255,255,255,1); border:2px solid black; padding:20px; color:black; width:200px; height:100px; margin-left:20%; margin-top:10%;" class="modal">
 
   <!-- Modal content --> 
       <h1 id="plwin"> </h1><br>
