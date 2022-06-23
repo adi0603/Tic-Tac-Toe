@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-This program will help ou to play TIC-Tac-Toe Game with your friends without worrying to install any app you just have to visit this website as game is live at http://tictactoe.adipandey.in/ so just signup to the game and enjoy.
+This program will help you to play TIC-Tac-Toe Game with your friends without worrying to install any app you just have to visit this website as game is live at http://tictactoe.adipandey.in/ so just signup to the game and enjoy.
 
 ## Screenshot of this Game :
 ## Login Page
